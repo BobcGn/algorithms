@@ -46,9 +46,7 @@ Git 不跟踪空目录，部分目录可能只存在于本地工作空间。
 
 以下内容保留在本地，不提交到仓库：
 
-- 任意层级的 `report/` 目录。
+- 任意层级的 `report/` 和 `reports/` 目录。
 - 任意层级的 `tmp/` 目录。
 - 仓库根目录下的 `docs/` 目录。
 - macOS 的 `.DS_Store` 和 Jupyter 的 `.ipynb_checkpoints/`。
-
-`reports/` 与 `report/` 名称不同，当前规则仅忽略 `report/`。

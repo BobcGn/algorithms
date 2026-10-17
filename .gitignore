@@ -1,5 +1,6 @@
 # Local reports and temporary files at any depth
 report/
+reports/
 tmp/
 
 # Root-only reference documents
