@@ -1,0 +1,12 @@
+# Local reports and temporary files at any depth
+report/
+tmp/
+
+# Root-only reference documents
+/docs/
+
+# macOS metadata
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
